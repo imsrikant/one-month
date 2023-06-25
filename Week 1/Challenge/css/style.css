@@ -8,7 +8,8 @@ Developed @ One Month in NYC
 */
 
 body {
-    background: url('../images/');
+    background: url('../images/programmer-working-from-home.webp');
+    background-position: center;
     /* the follow is the code to have the image display as a full page */
     background-position: center;
     background-attachment: fixed;
