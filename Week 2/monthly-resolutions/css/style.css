@@ -44,7 +44,7 @@ body {
 
 
 #article {
-     width:550px;
+     width:700px;
      background: #fff;
      float:left;
      padding:2em;
@@ -57,7 +57,9 @@ body {
      background: #fff;
      float:left;
 }
-
+hr {
+     width:550px;
+}
 #footer {
      clear:both;
 }
