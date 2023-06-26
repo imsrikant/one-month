@@ -82,6 +82,7 @@ body {
 
 .article-title {
      font-size: 42px;
+     margin-bottom: 14px;
 }
 
 .caption {
@@ -89,7 +90,7 @@ body {
 }
 
 .line-break {
-     
+
 }
 
 .subtitle {
