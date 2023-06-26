@@ -52,6 +52,7 @@ body {
 }
 
 .article-container {
+     width:550px;
      margin:0 auto;
      margin-bottom: 4em;
 }
