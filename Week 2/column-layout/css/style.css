@@ -33,23 +33,30 @@ Developed @ One Month in NYC
 
 
 #container {
-     width:1000px;
+     width: 1000px;
      margin: 0 auto;
 }
 
 #header {
      background: silver;
-     padding:50px;
+     padding: 50px;
 }
 
 #main {
      background: skyblue;
-     padding:50px;
+     padding: 50px;
+     width: 700px;
+     float: left;
 }
 
-#sidebar {}
+#sidebar {
+     background: pink;
+     padding: 50px;
+     width: 300px;
+     float: left;
+}
 
 #footer {
-     background:Peachpuff;
-     padding:50px;
+     background: Peachpuff;
+     padding: 50px;
 }
