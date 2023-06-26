@@ -64,9 +64,6 @@ body {
      background: #fff;
      float:left;
 }
-hr {
-     width:550px;
-}
 #footer {
      clear:both;
 }
@@ -75,5 +72,12 @@ hr {
 03=MAIN
 -----------------------------------------------------------------------------*/
 .header-title {
+     font-size:52px;
+     letter-spacing: 0.2px;
      margin: 0;
+}
+
+.article-title
+{
+     font-size:
 }
