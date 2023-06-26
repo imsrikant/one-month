@@ -48,8 +48,11 @@ body {
      background: #fff;
      float:left;
      padding:2em;
-     margin:0 auto;
      margin-right:10px;
+}
+
+.article-container {
+     width:600px;
 }
 
 #aside {
