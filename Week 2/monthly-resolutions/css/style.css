@@ -44,40 +44,42 @@ body {
 
 
 #article {
-     width:700px;
+     width: 700px;
      background: #fff;
-     float:left;
-     padding:2em;
-     margin-right:10px;
+     float: left;
+     padding: 2em;
+     margin-right: 10px;
 }
 
 .article-container {
-     width:550px;
-     margin:0 auto;
+     width: 550px;
+     margin: 0 auto;
      margin-bottom: 4em;
 }
+
 .article-container:last-child {
-     margin-bottom:0;
+     margin-bottom: 0;
 }
+
 #aside {
-     width:290px;
+     width: 290px;
      background: #fff;
-     float:left;
+     float: left;
 }
+
 #footer {
-     clear:both;
+     clear: both;
 }
 
 /*-----------------------------------------------------------------------------
 03=MAIN
 -----------------------------------------------------------------------------*/
 .header-title {
-     font-size:52px;
+     font-size: 52px;
      letter-spacing: .1px;
      margin: 0;
 }
 
-.article-title
-{
-     font-size:
+.article-title {
+     font-size: 42px;
 }
