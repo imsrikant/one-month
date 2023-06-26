@@ -52,7 +52,7 @@ body {
 }
 
 .article-container {
-     /* width: 700px; */
+     width: 550px;
      margin: 0 auto;
      margin-bottom: 4em;
 }
@@ -88,7 +88,7 @@ body {
      margin: 1em auto;
 }
 .line-break {
-width:
+
 }
 .subtitle {
      color:#C9D1CF;
