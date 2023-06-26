@@ -25,7 +25,9 @@ Developed @ One Month in NYC
      clear: both;
 }
 
-
+img {
+     float:right;
+}
 
 /*-----------------------------------------------------------------------------
 =02 LAYOUT
