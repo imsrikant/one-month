@@ -30,7 +30,8 @@ body {
 
 
 h1 {
-    font-size: px;
+    font-size: 60px;
+    font-family: 'Dongle', sans-serif;
 }
 
 h2 {
@@ -38,6 +39,8 @@ h2 {
     color: black;
     padding: 5px;
     border-radius: 5px;
+    font-size: 32px;
+    font-family: 'Dongle', sans-serif;
 }
 
 a {
