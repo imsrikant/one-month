@@ -3,7 +3,7 @@ Project Name: Monthly Resolutions
 Client: One Month
 Author: Christopher Castig | @castig
 */
-
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
 
 /*-----------------------------------------------------------------------------
 01=BASE
@@ -25,13 +25,24 @@ Author: Christopher Castig | @castig
 
 body {
      background: #EBE9E9;
-     font-family:Lato,
+     font-family: 'Lato', sans-serif;
 }
 
 /*-----------------------------------------------------------------------------
 02=LAYOUT
 -----------------------------------------------------------------------------*/
-#header {
+#header {}
+
+#main {
+
+}
+#article {
+
+}
+#aside {
+
+}
+#footer {
 
 }
 
