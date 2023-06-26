@@ -32,18 +32,24 @@ Developed @ One Month in NYC
 -----------------------------------------------------------------------------*/
 
 
-#container {}
+#container {
+     width:1000px;
+     margin: 0 auto;
+}
 
 #header {
      background: silver;
+     padding:50px;
 }
 
 #main {
      background: skyblue;
+     padding:50px;
 }
 
 #sidebar {}
 
 #footer {
      background:Peachpuff;
+     padding:50px;
 }
