@@ -18,7 +18,7 @@ Author: Christopher Castig | @castig
      box-sizing: border-box;
      /* IE */
      margin: 0;
-     padding:0;
+     padding: 0;
 }
 
 .clear {
@@ -42,19 +42,27 @@ body {
      padding: 4em 0 2em 0;
 }
 
-#main {
-     background:#fff;
+
+#article {
+     width:700px;
+     background: #fff;
+     float:left;
+     padding:2em;
 }
 
-#article {}
+#aside {
+     width:290px;
+     background: #fff;
+     float:left;
+}
 
-#aside {}
-
-#footer {}
+#footer {
+     clear:both;
+}
 
 /*-----------------------------------------------------------------------------
 03=MAIN
 -----------------------------------------------------------------------------*/
-.header-title{
-     margin:0;
+.header-title {
+     margin: 0;
 }
