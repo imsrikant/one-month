@@ -17,6 +17,8 @@ Author: Christopher Castig | @castig
      /* Safari/Chrome/iOS/Android */
      box-sizing: border-box;
      /* IE */
+     margin: 0;
+     padding:0;
 }
 
 .clear {
