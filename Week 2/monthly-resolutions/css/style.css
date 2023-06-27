@@ -88,11 +88,16 @@ body {
 .caption {
      margin: 1em auto;
 }
+
 .subtitle {
      color: #C9D1CF;
      margin: .5em auto;
 }
 
 #aside {
-     padding:1em;
+     padding: 1em;
+}
+
+.author-img {
+     border-radius: 50%;
 }
