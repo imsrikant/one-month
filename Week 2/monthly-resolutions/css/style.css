@@ -119,8 +119,23 @@ a {
      color:#FF751F;
 }
 
-
+#quote-container {
+     border-left: 3px solid #C9D1CF;
+     padding-left:.8em;
+}
 #quote
  {
      margin-bottom: 1em;
+ }
+ #quote-text
+ {
+     font-style: italic;
+     line-height: 1.5;
+     margin-bottom: 1em;
+ }
+
+
+#footer
+ {
+     margin-top:1em;
  }
