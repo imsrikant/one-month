@@ -44,7 +44,7 @@ body {
 
 
 #article {
-     width: 700px;
+     width: 650px;
      background: #fff;
      float: left;
      padding: 2em;
@@ -62,7 +62,7 @@ body {
 }
 
 #aside {
-     width: 290px;
+     width: 340px;
      background: #fff;
      float: left;
 }
@@ -94,5 +94,5 @@ body {
 }
 
 #aside {
-     padding:4em;
+     padding:1em;
 }
