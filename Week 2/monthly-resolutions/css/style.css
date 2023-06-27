@@ -107,5 +107,11 @@ body {
 }
 
 .list {
-     padding:2em;
+     padding: 2em;
+     padding-top: 1em;
+}
+
+.list-item a {
+     text-decoration: none;
+     color:orange;
 }
