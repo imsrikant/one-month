@@ -111,17 +111,16 @@ body {
      padding-top: 1em;
 }
 
-.list-item a {
+.list-item {
+     margin-bottom: .5em;
+}
+a {
      text-decoration: none;
      color:#FF751F;
-
 }
 
-.list-item {
-     margin-bottom: 5em;
-}
 
 #quote
  {
-     marn
+     margin-bottom: 1em;
  }
