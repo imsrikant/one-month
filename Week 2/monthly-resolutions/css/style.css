@@ -101,3 +101,8 @@ body {
 .author-img {
      border-radius: 50%;
 }
+
+#author-name {
+     margin:1em 0;
+     font-weight: 400;
+}
