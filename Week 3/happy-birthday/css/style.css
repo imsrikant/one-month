@@ -68,3 +68,8 @@ h2 {
   width:100%;
   border-radius: 20px 20px 0 0;
 }
+
+aside .left {
+  float:left;
+  background-color: yellowgreen;
+}
