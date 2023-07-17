@@ -13,3 +13,7 @@
   text-align: center;
   float: inherit;
 }
+
+.left {
+  padding:1em;
+}
